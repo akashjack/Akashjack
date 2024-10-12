@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @akashjack
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ... engineering
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ...
 
 <!---
 akashjack/akashjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
