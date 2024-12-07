@@ -1,4 +1,5 @@
 👋 Hi, I'm Akash S
+
 🚀 About Me
 I am a passionate Software Engineer with experience in building scalable, user-friendly, and innovative software solutions. I enjoy tackling complex problems and turning them into efficient and elegant code.
 
@@ -34,4 +35,5 @@ Cloud and DevOps practices
 
 📝 Let's Connect
 LinkedIn : https://www.linkedin.com/in/akashshankar57/
+
 Email : akashjack025@gmail.com
