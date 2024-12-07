@@ -7,16 +7,23 @@ I am a passionate Software Engineer with experience in building scalable, user-f
 💻 Skills
 
 Programming Languages: JavaScript, Python
+
 Frameworks and Libraries: Angular, Node.js
+
 Databases: MongoDB, MySQL
+
 Tools and Platforms: Git, SVN
 
 🌟 My Focus
+
 Frontend & Backend Development
+
 API Design and Development
+
 Cloud and DevOps
 
 📂 Projects
+
 Here are some of the projects and certifications I have worked on:
 
 Back-End Development and APIs Certification
@@ -38,9 +45,11 @@ Focused on building a strong understanding of information security principles an
 🌱 Currently Learning
 
 Advanced Backend Development
+
 Cloud and DevOps practices
 
 📝 Let's Connect
+
 LinkedIn : https://www.linkedin.com/in/akashshankar57/
 
 Email : akashjack025@gmail.com
