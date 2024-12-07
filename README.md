@@ -53,3 +53,7 @@ Cloud and DevOps practices
 LinkedIn : https://www.linkedin.com/in/akashshankar57/
 
 Email : akashjack025@gmail.com
+
+License
+
+Copyright (c) 2019 by Akash S.Licensed under MIT License.
