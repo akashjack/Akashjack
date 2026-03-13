@@ -8,7 +8,7 @@ data pipelines, and modern LLM architectures.
 ## Tech Stack
 
 Backend
-Node.js • Python • Microservices
+Node.js • Python • Microservices 
 
 AI
 LLM Pipelines • Semantic Search • Vector Databases • RAG
