@@ -1,59 +1,28 @@
-👋 Hi, I'm Akash S
+# Hi, I'm Akash 👋
 
-🚀 About Me
+AI Engineer | Backend Systems | Distributed Architecture
 
-I am a passionate Software Engineer with experience in building scalable, user-friendly, and innovative software solutions. I enjoy tackling complex problems and turning them into efficient and elegant code.
+I build scalable AI platforms combining backend engineering,
+data pipelines, and modern LLM architectures.
 
-💻 Skills
+## Tech Stack
 
-Programming Languages: JavaScript, Python
+Backend
+Node.js • Python • Microservices
 
-Frameworks and Libraries: Angular, Node.js
+AI
+LLM Pipelines • Semantic Search • Vector Databases • RAG
 
-Databases: MongoDB, MySQL
+Data Systems
+Kafka • Iceberg • Data Lakehouse
 
-Tools and Platforms: Git, SVN
+DevOps
+Docker • CI/CD • NGINX
 
-🌟 My Focus
+## Featured Projects
 
-Frontend & Backend Development
+AI Semantic Search Platform
+AI Agent Workflow Engine
+AI Data Lakehouse Pipeline
 
-API Design and Development
-
-Cloud and DevOps
-
-📂 Projects
-
-Here are some of the projects and certifications I have worked on:
-
-Back-End Development and APIs Certification
-
-A comprehensive certification project showcasing back-end development skills, including API design and development.
-
-IBM Project - 22873
-
-A project completed under IBM’s certification program, demonstrating problem-solving and coding skills in real-world scenarios.
-
-Python Projects for Beginners
-
-A collection of beginner-friendly Python projects aimed at honing foundational programming skills.
-
-Information Security Certification
-
-Focused on building a strong understanding of information security principles and practices.
-
-🌱 Currently Learning
-
-Advanced Backend Development
-
-Cloud and DevOps practices
-
-📝 Let's Connect
-
-LinkedIn : https://www.linkedin.com/in/akashshankar57/
-
-Email : akashjack025@gmail.com
-
-License
-
-Copyright (c) 2019 by Akash S.Licensed under MIT License.
+Open to Backend / AI Engineering opportunities.
