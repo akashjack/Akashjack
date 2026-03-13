@@ -7,16 +7,18 @@ data pipelines, and modern LLM architectures.
 
 ## Tech Stack
 
-Backend
+Backend --
 Node.js • Python • Microservices 
 
-AI
+AI --
 LLM Pipelines • Semantic Search • Vector Databases • RAG
 
-Data Systems
+
+Data Systems --
 Kafka • Iceberg • Data Lakehouse
 
-DevOps
+
+DevOps --
 Docker • CI/CD • NGINX
 
 ## Featured Projects
